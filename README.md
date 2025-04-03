@@ -181,9 +181,9 @@ streamlit run dashboard.py
 ---
 
 ## ❤️ Contributors
-👤 **[Your Name]** – Developer & Data Scientist 🚀
+👤 **Debangan Ghosh** – Developer & Data Scientist 🚀
 
-📩 **Contact:** your-email@example.com
+📩 **Contact:** primusvlog@gmail.com
 
 ---
 
