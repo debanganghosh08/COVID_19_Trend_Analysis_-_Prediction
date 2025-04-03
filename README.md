@@ -5,10 +5,14 @@ Welcome to **COVID-19 Trend Analysis & Prediction** 🚀! This project is design
 🔗 **GitHub Repository**: [COVID-19 Trend Analysis & Prediction](https://github.com/debanganghosh08/COVID_19_Trend_Analysis_-_Prediction.git)
 
 ---
+# 💻 Tech Stack:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+---
 
 ## 📌 Project Overview
 
 This project focuses on:
+
 ✅ Analyzing COVID-19 cases using **real-world datasets** 📊  
 ✅ **Enhancing data accuracy** using external datasets 🔄  
 ✅ Building **ML models** (Linear Regression, ARIMA, LSTM) to predict future cases 🧠  
