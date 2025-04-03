@@ -1,9 +1,10 @@
 # 📊 COVID-19 Trend Analysis & Prediction
 
 Welcome to **COVID-19 Trend Analysis & Prediction** 🚀! This project is designed to analyze COVID-19 case trends, predict future cases using ML models, and visualize data using an interactive **Streamlit Dashboard**.
+---
+![image](https://github.com/user-attachments/assets/3559b8ab-25bd-4ed4-aac0-d2dfbe1906de)
 
-🔗 **GitHub Repository**: [COVID-19 Trend Analysis & Prediction](https://github.com/debanganghosh08/COVID_19_Trend_Analysis_-_Prediction.git)
-
+📂(Check other images for Analysis in Images Folder)
 ---
 # 💻 Tech Stack:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
